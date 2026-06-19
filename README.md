@@ -10,6 +10,11 @@ I like the Dark+ theme. I really like the minor but significant changes @cryptom
 
 The truecolor-palette change is in a separate fork and will be submitted for PR consideration to cryptomilk. THIS repo contains that code PLUS my personalzation. Yes, I realize I have to refactor and un-f$xk things if they accept and merge my PR.
 
+## Requirements
+
+- **tmux >= 2.9** — the theme uses the merged `*-style` options that replaced the
+  older `*-fg`/`*-bg`/`*-attr` options removed in tmux 2.9.
+
 ## Installation
 
 ### Install using [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
