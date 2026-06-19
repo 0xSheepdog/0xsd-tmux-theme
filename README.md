@@ -6,7 +6,7 @@ Powerline-styled tmux theme
 
 Based on [tmux-cryptomilk-theme](https://github.com/cryptomilk/tmux-cryptomilk-theme) (which is based on [tmux-dark-plus-theme](https://github.com/khanghh/tmux-dark-plus-theme))
 
-I like the Dark+ theme. I really like the minor but significant changes cryptomilk made. I added truecolor palette and my personal QOL updates.
+I like the Dark+ theme. I really like the minor but significant changes @cryptomilk made. I added truecolor palette and my personal QOL updates.
 
 The truecolor-palette change is in a separate fork and will be submitted for PR consideration to cryptomilk. THIS repo contains that code PLUS my personalzation. Yes, I realize I have to refactor and un-f$xk things if they accept and merge my PR.
 
